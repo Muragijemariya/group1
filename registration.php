@@ -9,7 +9,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color:rgb(155, 200, 231);
             margin: 0;
             padding: 0;
         }
@@ -47,7 +47,7 @@
 <body>
     <div class="container mt-5">
         <h1 class="text-center mb-4">Registration Page</h1>
-        <form method="POST" action="handle_register_user.php" class="w-50 mx-auto">
+        <form method="POST" action="handle_register_user.php" class="w-50 mx-auto" background="grey">
             <div class="mb-3">
                 <label for="firstname" class="form-label">First Name:</label>
                 <input type="text" name="firstname" id="firstname" class="form-control" required>

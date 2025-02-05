@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root"; // Replace with your database username
 $password = ""; // Replace with your database password
-$dbname = "group4_shareride_db"; // Updated database name
+$dbname = "group1_shareride_db"; // Updated database name
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

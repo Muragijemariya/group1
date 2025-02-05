@@ -43,7 +43,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to the Hospital Management System</h1>
+        <h1>WELCOME TO UMUCYO IWACU MANAGEMENT SYSTEM</h1>
         <a href="registration.php">Register</a> | <a href="login.php">Login</a>
     </div>
 </body>
